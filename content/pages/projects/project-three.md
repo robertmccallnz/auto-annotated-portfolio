@@ -14,7 +14,7 @@ featuredImage:
   caption: An irreverant soul on the edge.
 media:
   type: ImageBlock
-  url: /images/bg3.jpg
+  url: /images/Image 30-01-2025 at 9.19 PM.jpeg
   altText: Project image
 ---
 
