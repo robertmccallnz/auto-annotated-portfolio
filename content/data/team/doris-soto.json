@@ -1,7 +1,7 @@
 {
     "type": "Person",
     "firstName": "Robert McCall",
-    "lastName": "Soto",
+    "lastName": "McCall",
     "image": {
         "type": "ImageBlock",
         "url": "/images/about.jpg",
