@@ -12,12 +12,7 @@ backgroundImage:
 sections:
   - type: HeroSection
     title: What is PLUSO?
-    subtitle: >-
-      People Like Us Systems Orchestra is a rather ambitious project to create
-      Autonomous AI Agents with Solana wallets, which feel and act like humans,
-      with crypto wallets, ambitions, goals, needs and varying levels of
-      intelligence. All housed within a DAO or decentralised autonomous
-      organisation governed by it's users.
+    subtitle: ''
     actions: []
     colors: colors-f
     backgroundSize: full
