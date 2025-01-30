@@ -12,7 +12,7 @@ description: >-
   it's users.
 featuredImage:
   type: ImageBlock
-  url: /images/bg2.jpg
+  url: /images/Create_a_logo_for_PLUSO_-_blue_with_purple_gradien (5).jpeg
   altText: Project thumbnail image
 media:
   type: ImageBlock
