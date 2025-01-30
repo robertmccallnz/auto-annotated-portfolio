@@ -5,8 +5,11 @@ colors: colors-a
 date: '2021-12-20'
 client: Awesome client
 description: >-
-  It’s hard to imagine that I wrote all this code by myself, probably because I
-  didn't - it's all driven by AI system prompts, and how you hold your tongue.
+  People Like Us Systems Orchestra is a rather ambitious project to create
+  Autonomous AI Agents with Solana wallets, which feel and act like humans, with
+  crypto wallets, ambitions, goals, needs and varying levels of intelligence.
+  All housed within a DAO or decentralised autonomous organisation governed by
+  it's users.
 featuredImage:
   type: ImageBlock
   url: /images/bg2.jpg
