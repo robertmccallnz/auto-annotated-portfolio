@@ -4,7 +4,13 @@ title: "How to Create a Voice AI Agent  \U0001F5C2️"
 colors: colors-a
 date: '2024-06-03'
 author: content/data/team/doris-soto.json
-excerpt: ''
+excerpt: >-
+  Creating a voice AI agent has become increasingly accessible, thanks to
+  advancements in technology and the availability of powerful tools and
+  platforms. Whether you're a non-technical user or a seasoned developer, there
+  are multiple approaches to building a voice AI agent tailored to your needs.
+  In this blog post, we’ll explore the latest trends, tools, and steps to help
+  you create a voice AI agent in 2025.
 featuredImage:
   type: ImageBlock
   url: /images/featured-Image6.jpg
