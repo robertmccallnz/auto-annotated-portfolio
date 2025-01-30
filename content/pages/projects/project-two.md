@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: Another cool project
+title: What is PLUSO?
 colors: colors-a
 date: '2021-12-20'
 client: Awesome client
