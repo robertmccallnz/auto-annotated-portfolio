@@ -12,6 +12,7 @@ featuredImage:
   type: ImageBlock
   url: /images/Image 30-01-2025 at 9.19 PM.jpeg
   altText: Zaphod Beetlebrox the Third
+  caption: An irreverant soul on the edge.
 media:
   type: ImageBlock
   url: /images/bg3.jpg
