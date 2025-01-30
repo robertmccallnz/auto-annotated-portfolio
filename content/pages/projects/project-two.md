@@ -17,7 +17,7 @@ featuredImage:
 media:
   type: ImageBlock
   url: /images/Create_a_logo_for_PLUSO_-_blue_with_purple_gradien (5).jpeg
-  altText: Project image
+  altText: PLUSO
   caption: People Like Us Systems Orchestra
 ---
 
