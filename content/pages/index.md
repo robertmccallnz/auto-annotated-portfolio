@@ -17,7 +17,7 @@ sections:
       I’m a developer, digital artist, AI consultant and a bunch of other
       impressive titles and buzz words.
     subtitle: >-
-      This is my info—I’m sharing it all to impress you with all the hard work
+      This is my info — I’m sharing it all to impress you with all the hard work
       I’ve done in the past few months. Once you’re impressed, you can contact
       me for a chat, and hire me for your project.
     styles:
