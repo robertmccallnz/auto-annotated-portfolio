@@ -6,8 +6,7 @@ date: '2022-01-22'
 client: Me
 description: >-
   It’s hard to imagine that I’ve that I wrote all this code by myself, probably
-  because I worked with an entire team :) but they definitely followed my lead
-  most of the time.
+  because I didn't - it is of my creation but it comes to life with with AI.
 featuredImage:
   type: ImageBlock
   url: /images/Image 30-01-2025 at 9.19 PM.jpeg
