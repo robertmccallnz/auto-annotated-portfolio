@@ -2,7 +2,7 @@
 type: PostLayout
 title: "How to Create a Voice AI Agent  \U0001F5C2️"
 colors: colors-a
-date: '2025-02-03'
+date: '2025-01-29'
 author: content/data/team/doris-soto.json
 excerpt: >-
   Creating a voice AI agent has become increasingly accessible, thanks to
