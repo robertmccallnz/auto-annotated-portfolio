@@ -11,7 +11,7 @@ backgroundImage:
   opacity: 75
 sections:
   - type: HeroSection
-    title: What is PLUSO?
+    title: ''
     subtitle: ''
     actions: []
     colors: colors-f
