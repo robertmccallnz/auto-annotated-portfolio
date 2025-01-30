@@ -5,9 +5,8 @@ colors: colors-a
 date: '2021-12-20'
 client: Awesome client
 description: >-
-  It’s hard to imagine that I’ve that I wrote all this code by myself, probably
-  because I didn't - it's all driven by AI system prompts, and how you hold your
-  tongue.
+  It’s hard to imagine that I wrote all this code by myself, probably because I
+  didn't - it's all driven by AI system prompts, and how you hold your tongue.
 featuredImage:
   type: ImageBlock
   url: /images/bg2.jpg
