@@ -1,18 +1,20 @@
 ---
 type: ProjectLayout
-title: One more cool project
+title: Zaphod BeetleBrox the Third
 colors: colors-a
 date: '2022-01-22'
-client: Awesome client
+client: Me
 description: >-
-  It’s hard to imagine that I’ve that I wrote all this code by myself, probably because I worked with an entire team :) but they definitely followed my lead most of the time.
+  It’s hard to imagine that I’ve that I wrote all this code by myself, probably
+  because I didn't - it is of my creation but it comes to life with with AI.
 featuredImage:
   type: ImageBlock
-  url: /images/bg3.jpg
-  altText: Project thumbnail image
+  url: /images/Image 30-01-2025 at 9.19 PM.jpeg
+  altText: Zaphod Beetlebrox the Third
+  caption: An irreverant soul on the edge.
 media:
   type: ImageBlock
-  url: /images/bg3.jpg
+  url: /images/Image 30-01-2025 at 9.19 PM.jpeg
   altText: Project image
 ---
 
